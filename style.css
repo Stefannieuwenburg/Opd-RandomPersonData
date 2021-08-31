@@ -1,0 +1,47 @@
+
+
+body {
+  background-color: #1403f7;
+}
+
+h1 {
+  text-align: center;
+  color: #fcfcfc;
+}
+
+
+.landen {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(105, 145, 172, 0.993);
+}
+
+.steenbok-vrouwen {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(105, 145, 172, 0.993);
+}
+
+.ouwe-creditcards{
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(105, 145, 172, 0.993);
+}
+
+.meeste-mensen {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(105, 145, 172, 0.993);
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
